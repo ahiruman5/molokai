@@ -71,9 +71,9 @@ hi Question             guifg=#66D9EF                             ctermfg=81
 hi Title                guifg=#EF5939                             ctermfg=166
 
 hi DiffAdd              guifg=#d7ffaf guibg=#5F875F               ctermfg=193  ctermbg=65
-hi DiffChange           guifg=#89807D guibg=#4C4745               ctermfg=181  ctermbg=239
+hi DiffChange           guifg=#89807D guibg=#4C4745               ctermfg=181  ctermbg=237
 hi DiffDelete           guifg=#1B1D1E guibg=#CC6666               ctermfg=233  ctermbg=167
-hi DiffText                           guibg=#4C4745 gui=bold                   ctermbg=102  cterm=bold
+hi DiffText                           guibg=#4C4745 gui=bold                   ctermbg=239  cterm=bold
 
 hi Directory            guifg=#A6E22E               gui=bold      ctermfg=118               cterm=bold
 
